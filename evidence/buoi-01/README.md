@@ -4,9 +4,9 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
+- Họ tên: Đàm Vĩnh Hưng
+- Mã sinh viên: 1771020333
+- Nhóm: 3
 - Vai trò dự kiến trong nhóm:
 - Hệ điều hành:
 - Ghi chú:
